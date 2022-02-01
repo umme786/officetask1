@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
-/* .container{
+.container{
     border: 2px solid red;
 }
 .row{
@@ -7,7 +7,7 @@
 }
 .col{
     border: 2px solid blue;
-} */
+}
 * {
     margin: 0;
     padding: 0;
@@ -136,7 +136,7 @@ a {
     margin: 0 auto !important;
 }
 .banner2{
-    background-image: url(../img/Path\ 3.png);
+    /* background-image: url(../img/Path\ 3.png); */
     background-size: cover;
     right: 0;
     top: 150%;
@@ -155,7 +155,7 @@ a {
 .img-man{
     display: flex;
 }
-.img-1{
+/* .img-1{
     left: 5%;
     position: absolute;
     top: 167%;
@@ -183,10 +183,13 @@ a {
 }
 .img-4 img{
     width: 50px;
+} */
+header{
+    background-color: #e8f5fd;
 }
 /*---------------------- section---------------- */
 .explore-sec{
-    margin-top: 45rem;
+    /* margin-top: 45rem; */
 }
 section{
     padding: 30px;
